@@ -37,7 +37,7 @@ while ($row=mysqli_fetch_array($ret)) {
         </div>
       </div>
       <div class="cprt">
-        <strong style="font-size: 20px;color: white">Computer Service Management System @2023</strong>
+        <strong style="font-size: 20px;color: white">Computer Service Management System @2024</strong>
       </div>
     </div>
   </div>
